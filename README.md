@@ -1,2 +1,2 @@
-# gamified-e-learningn
-never give up
+# gamified-e-learning
+Gamified Farming App 
